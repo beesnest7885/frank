@@ -1,0 +1,42 @@
+{
+    "basic_rations": {
+        "rarity": 1,
+        "items": ["energy_bar", "compact_protein_shake", "vitamin_capsule", "flavored_water_gel", "instant_rice_packet", "portable_soup_tube", "reusable_tea_pod", "freeze-dried_veggies", "nutrition_sprinkle", "electrolyte_tab"]
+    },
+    "common_gadgets": {
+        "rarity": 2,
+        "items": ["mini_stun_gun", "LED_flashlight_knuckle", "retractable_baton", "solar_charger", "compact_drone", "self-defense_ring", "smart_whistle", "GPS_beacon", "emergency_paracord_bracelet", "wearable_cam"]
+    },
+    "special_supplies": {
+        "rarity": 3,
+        "items": ["multi-tool_card", "portable_filter_straw", "solar_cooker", "thermal_blanket", "mini_first_aid_kit", "foldable_backpack", "signal_mirror", "compact_binoculars", "lightweight_tarp", "digital_compass_ring"]
+    },
+    "tech_accessories": {
+        "rarity": 4,
+        "items": ["AR_glasses", "smart_bracelet", "portable_projector", "wireless_earpiece", "VR_glove", "motion_charging_battery", "holographic_watch", "wearable_air_purifier", "nanofiber_mask", "fingerprint_lock"]
+    },
+    "unique_drones": {
+        "rarity": 5,
+        "items": ["surveillance_copter", "delivery_drone", "audio_recorder_fly", "thermal_seeker", "light_show_quadcopter", "mini_racer", "message_messenger", "mapping_module", "distraction_disk", "night_vision_navigator"]
+    },
+    "urban_attire": {
+        "rarity": 6,
+        "items": ["sneakers_with_hidden_pocket", "jacket_with_solar_panels", "backpack_with_hidden_zip", "smart_ring", "hood_with_augmented_reality", "belt_with_tools", "scarf_with_storage", "gloves_with_touchscreen_fibers", "hat_with_solar_fan", "pants_with_quick_dry_material"]
+    },
+    "legendary_gear": {
+        "rarity": 7,
+        "items": ["cloak_of_invisibility_tech", "boots_with_jump_boosters", "helmet_with_full_hud", "gloves_of_strength", "vest_with_force_field", "anti-grav_belt", "shield_emitting_watch", "wrist_mounted_crossbow", "nano_healing_patch", "taser_implant"]
+    },
+    "connected_devices": {
+        "rarity": 8,
+        "items": ["smart_dust", "universal_translator_earpiece", "mood_ring_2.0", "personal_drone_assistant", "augmented_reality_tattoo", "wearable_AI_assistant", "biofeedback_bracelet", "digital_skin_display", "telepathic_communicator", "holographic_companion"]
+    },
+    "future_finds": {
+        "rarity": 9,
+        "items": ["quantum_computer_chip", "molecular_printer", "zero_gravity_pen", "self_cleaning_fabric", "teleportation_pad_key", "time_capsule_flash_drive", "holographic_memory_sphere", "miniaturized_reactor", "infinite_battery", "smart_scent_emitter"]
+    },
+    "ethereal_equipments": {
+        "rarity": 10,
+        "items": ["anti-aging_capsule", "telepathy_enabling_chip", "personal_shield_generator", "quantum_jump_boots", "time_manipulation_watch", "universal_creation_pen", "brain_enhancement_headset", "molecular_modification_glove", "reality_shifting_glasses", "galactic_gateway_gear"]
+    }
+}

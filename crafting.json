@@ -1,0 +1,15 @@
+{
+    "super_sandwich": {
+        "cost": {
+            "tokens": 100
+        },
+        "description": "Crafts a Super Sandwich which can boost your stats!"
+    },
+    "magic_lootbox": {
+        "cost": {
+            "tokens": 500,
+            "sandwiches": 2
+        },
+        "description": "Crafts a Magic Lootbox. Wonder what's inside?"
+    }
+}

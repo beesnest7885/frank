@@ -1,0 +1,870 @@
+[
+    {
+        "level_1_lootbox": {
+            "description": "A beginner's loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 10,
+                    "max": 30
+                },
+                "items": [
+                    "mini_stun_gun",
+                    "compact_protein_shake",
+                    "vitamin_capsule",
+                    "instant_rice_packet"
+                ]
+            }
+        }
+    },
+    {
+        "level_1_lootbox": {
+            "description": "A beginner's loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 10,
+                    "max": 30
+                },
+                "items": [
+                    "LED_flashlight_knuckle",
+                    "freeze-dried_veggies",
+                    "vitamin_capsule",
+                    "flavored_water_gel"
+                ]
+            }
+        }
+    },
+    {
+        "level_1_lootbox": {
+            "description": "A beginner's loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 10,
+                    "max": 30
+                },
+                "items": [
+                    "retractable_baton",
+                    "nutrition_sprinkle",
+                    "portable_soup_tube",
+                    "energy_bar"
+                ]
+            }
+        }
+    },
+    {
+        "level_1_lootbox": {
+            "description": "A beginner's loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 10,
+                    "max": 30
+                },
+                "items": [
+                    "solar_charger",
+                    "energy_bar",
+                    "instant_rice_packet",
+                    "compact_protein_shake"
+                ]
+            }
+        }
+    },
+    {
+        "level_1_lootbox": {
+            "description": "A beginner's loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 10,
+                    "max": 30
+                },
+                "items": [
+                    "compact_drone",
+                    "freeze-dried_veggies",
+                    "instant_rice_packet",
+                    "vitamin_capsule"
+                ]
+            }
+        }
+    },
+    {
+        "level_1_lootbox": {
+            "description": "A beginner's loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 10,
+                    "max": 30
+                },
+                "items": [
+                    "self-defense_ring",
+                    "portable_soup_tube",
+                    "freeze-dried_veggies",
+                    "compact_protein_shake",
+                    "GPS_beacon"
+                ]
+            }
+        }
+    },
+    {
+        "level_1_lootbox": {
+            "description": "A beginner's loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 10,
+                    "max": 30
+                },
+                "items": [
+                    "smart_whistle",
+                    "instant_rice_packet",
+                    "vitamin_capsule",
+                    "energy_bar",
+                    "wearable_cam"
+                ]
+            }
+        }
+    },
+    {
+        "level_1_lootbox": {
+            "description": "A beginner's loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 10,
+                    "max": 30
+                },
+                "items": [
+                    "GPS_beacon",
+                    "compact_protein_shake",
+                    "instant_rice_packet",
+                    "energy_bar",
+                    "self-defense_ring"
+                ]
+            }
+        }
+    },
+    {
+        "level_1_lootbox": {
+            "description": "A beginner's loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 10,
+                    "max": 30
+                },
+                "items": [
+                    "emergency_paracord_bracelet",
+                    "reusable_tea_pod",
+                    "nutrition_sprinkle",
+                    "portable_soup_tube",
+                    "solar_charger"
+                ]
+            }
+        }
+    },
+    {
+        "level_1_lootbox": {
+            "description": "A beginner's loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 10,
+                    "max": 30
+                },
+                "items": [
+                    "wearable_cam",
+                    "vitamin_capsule",
+                    "portable_soup_tube",
+                    "freeze-dried_veggies"
+                ]
+            }
+        }
+    },
+    {
+        "level_2_lootbox": {
+            "description": "A slightly better loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 30,
+                    "max": 50
+                },
+                "items": [
+                    "multi-tool_card",
+                    "smart_whistle",
+                    "mini_stun_gun",
+                    "retractable_baton",
+                    "portable_filter_straw"
+                ]
+            }
+        }
+    },
+    {
+        "level_2_lootbox": {
+            "description": "A slightly better loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 30,
+                    "max": 50
+                },
+                "items": [
+                    "portable_filter_straw",
+                    "emergency_paracord_bracelet",
+                    "LED_flashlight_knuckle",
+                    "self-defense_ring",
+                    "foldable_backpack"
+                ]
+            }
+        }
+    },
+    {
+        "level_2_lootbox": {
+            "description": "A slightly better loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 30,
+                    "max": 50
+                },
+                "items": [
+                    "solar_cooker",
+                    "mini_stun_gun",
+                    "LED_flashlight_knuckle",
+                    "wearable_cam"
+                ]
+            }
+        }
+    },
+    {
+        "level_2_lootbox": {
+            "description": "A slightly better loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 30,
+                    "max": 50
+                },
+                "items": [
+                    "thermal_blanket",
+                    "self-defense_ring",
+                    "emergency_paracord_bracelet",
+                    "retractable_baton"
+                ]
+            }
+        }
+    },
+    {
+        "level_2_lootbox": {
+            "description": "A slightly better loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 30,
+                    "max": 50
+                },
+                "items": [
+                    "mini_first_aid_kit",
+                    "GPS_beacon",
+                    "self-defense_ring",
+                    "retractable_baton"
+                ]
+            }
+        }
+    },
+    {
+        "level_2_lootbox": {
+            "description": "A slightly better loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 30,
+                    "max": 50
+                },
+                "items": [
+                    "foldable_backpack",
+                    "self-defense_ring",
+                    "smart_whistle",
+                    "solar_charger"
+                ]
+            }
+        }
+    },
+    {
+        "level_2_lootbox": {
+            "description": "A slightly better loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 30,
+                    "max": 50
+                },
+                "items": [
+                    "signal_mirror",
+                    "smart_whistle",
+                    "mini_stun_gun",
+                    "GPS_beacon"
+                ]
+            }
+        }
+    },
+    {
+        "level_2_lootbox": {
+            "description": "A slightly better loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 30,
+                    "max": 50
+                },
+                "items": [
+                    "compact_binoculars",
+                    "mini_stun_gun",
+                    "GPS_beacon",
+                    "LED_flashlight_knuckle"
+                ]
+            }
+        }
+    },
+    {
+        "level_2_lootbox": {
+            "description": "A slightly better loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 30,
+                    "max": 50
+                },
+                "items": [
+                    "lightweight_tarp",
+                    "LED_flashlight_knuckle",
+                    "smart_whistle",
+                    "mini_stun_gun",
+                    "mini_first_aid_kit"
+                ]
+            }
+        }
+    },
+    {
+        "level_2_lootbox": {
+            "description": "A slightly better loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 30,
+                    "max": 50
+                },
+                "items": [
+                    "digital_compass_ring",
+                    "smart_whistle",
+                    "mini_stun_gun",
+                    "GPS_beacon"
+                ]
+            }
+        }
+    },
+    {
+        "level_3_lootbox": {
+            "description": "An uncommon loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 60,
+                    "max": 90
+                },
+                "items": [
+                    "AR_glasses",
+                    "portable_filter_straw",
+                    "thermal_blanket",
+                    "digital_compass_ring",
+                    "nanofiber_mask"
+                ]
+            }
+        }
+    },
+    {
+        "level_3_lootbox": {
+            "description": "An uncommon loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 60,
+                    "max": 90
+                },
+                "items": [
+                    "smart_bracelet",
+                    "thermal_blanket",
+                    "foldable_backpack",
+                    "signal_mirror"
+                ]
+            }
+        }
+    },
+    {
+        "level_3_lootbox": {
+            "description": "An uncommon loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 60,
+                    "max": 90
+                },
+                "items": [
+                    "portable_projector",
+                    "digital_compass_ring",
+                    "mini_first_aid_kit",
+                    "thermal_blanket"
+                ]
+            }
+        }
+    },
+    {
+        "level_3_lootbox": {
+            "description": "An uncommon loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 60,
+                    "max": 90
+                },
+                "items": [
+                    "wireless_earpiece",
+                    "lightweight_tarp",
+                    "thermal_blanket",
+                    "foldable_backpack"
+                ]
+            }
+        }
+    },
+    {
+        "level_3_lootbox": {
+            "description": "An uncommon loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 60,
+                    "max": 90
+                },
+                "items": [
+                    "VR_glove",
+                    "signal_mirror",
+                    "foldable_backpack",
+                    "thermal_blanket",
+                    "wireless_earpiece"
+                ]
+            }
+        }
+    },
+    {
+        "level_3_lootbox": {
+            "description": "An uncommon loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 60,
+                    "max": 90
+                },
+                "items": [
+                    "motion_charging_battery",
+                    "solar_cooker",
+                    "lightweight_tarp",
+                    "portable_filter_straw",
+                    "portable_projector"
+                ]
+            }
+        }
+    },
+    {
+        "level_3_lootbox": {
+            "description": "An uncommon loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 60,
+                    "max": 90
+                },
+                "items": [
+                    "holographic_watch",
+                    "portable_filter_straw",
+                    "compact_binoculars",
+                    "multi-tool_card"
+                ]
+            }
+        }
+    },
+    {
+        "level_3_lootbox": {
+            "description": "An uncommon loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 60,
+                    "max": 90
+                },
+                "items": [
+                    "wearable_air_purifier",
+                    "thermal_blanket",
+                    "foldable_backpack",
+                    "solar_cooker"
+                ]
+            }
+        }
+    },
+    {
+        "level_3_lootbox": {
+            "description": "An uncommon loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 60,
+                    "max": 90
+                },
+                "items": [
+                    "nanofiber_mask",
+                    "lightweight_tarp",
+                    "compact_binoculars",
+                    "signal_mirror"
+                ]
+            }
+        }
+    },
+    {
+        "level_3_lootbox": {
+            "description": "An uncommon loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 60,
+                    "max": 90
+                },
+                "items": [
+                    "fingerprint_lock",
+                    "digital_compass_ring",
+                    "signal_mirror",
+                    "compact_binoculars"
+                ]
+            }
+        }
+    },
+    {
+        "level_4_lootbox": {
+            "description": "A box with some rare items.",
+            "rewards": {
+                "tokens": {
+                    "min": 100,
+                    "max": 150
+                },
+                "items": [
+                    "surveillance_copter",
+                    "wireless_earpiece",
+                    "smart_bracelet",
+                    "holographic_watch"
+                ]
+            }
+        }
+    },
+    {
+        "level_4_lootbox": {
+            "description": "A box with some rare items.",
+            "rewards": {
+                "tokens": {
+                    "min": 100,
+                    "max": 150
+                },
+                "items": [
+                    "delivery_drone",
+                    "AR_glasses",
+                    "smart_bracelet",
+                    "wearable_air_purifier"
+                ]
+            }
+        }
+    },
+    {
+        "level_4_lootbox": {
+            "description": "A box with some rare items.",
+            "rewards": {
+                "tokens": {
+                    "min": 100,
+                    "max": 150
+                },
+                "items": [
+                    "audio_recorder_fly",
+                    "holographic_watch",
+                    "VR_glove",
+                    "AR_glasses"
+                ]
+            }
+        }
+    },
+    {
+        "level_4_lootbox": {
+            "description": "A box with some rare items.",
+            "rewards": {
+                "tokens": {
+                    "min": 100,
+                    "max": 150
+                },
+                "items": [
+                    "thermal_seeker",
+                    "nanofiber_mask",
+                    "motion_charging_battery",
+                    "smart_bracelet"
+                ]
+            }
+        }
+    },
+    {
+        "level_4_lootbox": {
+            "description": "A box with some rare items.",
+            "rewards": {
+                "tokens": {
+                    "min": 100,
+                    "max": 150
+                },
+                "items": [
+                    "light_show_quadcopter",
+                    "AR_glasses",
+                    "VR_glove",
+                    "motion_charging_battery",
+                    "surveillance_copter"
+                ]
+            }
+        }
+    },
+    {
+        "level_4_lootbox": {
+            "description": "A box with some rare items.",
+            "rewards": {
+                "tokens": {
+                    "min": 100,
+                    "max": 150
+                },
+                "items": [
+                    "mini_racer",
+                    "VR_glove",
+                    "holographic_watch",
+                    "portable_projector",
+                    "night_vision_navigator"
+                ]
+            }
+        }
+    },
+    {
+        "level_4_lootbox": {
+            "description": "A box with some rare items.",
+            "rewards": {
+                "tokens": {
+                    "min": 100,
+                    "max": 150
+                },
+                "items": [
+                    "message_messenger",
+                    "motion_charging_battery",
+                    "nanofiber_mask",
+                    "AR_glasses"
+                ]
+            }
+        }
+    },
+    {
+        "level_4_lootbox": {
+            "description": "A box with some rare items.",
+            "rewards": {
+                "tokens": {
+                    "min": 100,
+                    "max": 150
+                },
+                "items": [
+                    "mapping_module",
+                    "AR_glasses",
+                    "portable_projector",
+                    "wearable_air_purifier",
+                    "message_messenger"
+                ]
+            }
+        }
+    },
+    {
+        "level_4_lootbox": {
+            "description": "A box with some rare items.",
+            "rewards": {
+                "tokens": {
+                    "min": 100,
+                    "max": 150
+                },
+                "items": [
+                    "distraction_disk",
+                    "wireless_earpiece",
+                    "nanofiber_mask",
+                    "smart_bracelet"
+                ]
+            }
+        }
+    },
+    {
+        "level_4_lootbox": {
+            "description": "A box with some rare items.",
+            "rewards": {
+                "tokens": {
+                    "min": 100,
+                    "max": 150
+                },
+                "items": [
+                    "night_vision_navigator",
+                    "wireless_earpiece",
+                    "wearable_air_purifier",
+                    "AR_glasses"
+                ]
+            }
+        }
+    },
+    {
+        "level_5_lootbox": {
+            "description": "Mid-level loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 200,
+                    "max": 300
+                },
+                "items": [
+                    "sneakers_with_hidden_pocket",
+                    "distraction_disk",
+                    "audio_recorder_fly",
+                    "message_messenger"
+                ]
+            }
+        }
+    },
+    {
+        "level_5_lootbox": {
+            "description": "Mid-level loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 200,
+                    "max": 300
+                },
+                "items": [
+                    "jacket_with_solar_panels",
+                    "mini_racer",
+                    "audio_recorder_fly",
+                    "distraction_disk"
+                ]
+            }
+        }
+    },
+    {
+        "level_5_lootbox": {
+            "description": "Mid-level loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 200,
+                    "max": 300
+                },
+                "items": [
+                    "backpack_with_hidden_zip",
+                    "audio_recorder_fly",
+                    "message_messenger",
+                    "mapping_module"
+                ]
+            }
+        }
+    },
+    {
+        "level_5_lootbox": {
+            "description": "Mid-level loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 200,
+                    "max": 300
+                },
+                "items": [
+                    "smart_ring",
+                    "audio_recorder_fly",
+                    "delivery_drone",
+                    "surveillance_copter"
+                ]
+            }
+        }
+    },
+    {
+        "level_5_lootbox": {
+            "description": "Mid-level loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 200,
+                    "max": 300
+                },
+                "items": [
+                    "hood_with_augmented_reality",
+                    "message_messenger",
+                    "mini_racer",
+                    "audio_recorder_fly",
+                    "gloves_with_touchscreen_fibers"
+                ]
+            }
+        }
+    },
+    {
+        "level_5_lootbox": {
+            "description": "Mid-level loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 200,
+                    "max": 300
+                },
+                "items": [
+                    "belt_with_tools",
+                    "surveillance_copter",
+                    "mapping_module",
+                    "night_vision_navigator",
+                    "backpack_with_hidden_zip"
+                ]
+            }
+        }
+    },
+    {
+        "level_5_lootbox": {
+            "description": "Mid-level loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 200,
+                    "max": 300
+                },
+                "items": [
+                    "scarf_with_storage",
+                    "audio_recorder_fly",
+                    "message_messenger",
+                    "surveillance_copter",
+                    "belt_with_tools"
+                ]
+            }
+        }
+    },
+    {
+        "level_5_lootbox": {
+            "description": "Mid-level loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 200,
+                    "max": 300
+                },
+                "items": [
+                    "gloves_with_touchscreen_fibers",
+                    "light_show_quadcopter",
+                    "message_messenger",
+                    "thermal_seeker"
+                ]
+            }
+        }
+    },
+    {
+        "level_5_lootbox": {
+            "description": "Mid-level loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 200,
+                    "max": 300
+                },
+                "items": [
+                    "hat_with_solar_fan",
+                    "delivery_drone",
+                    "distraction_disk",
+                    "audio_recorder_fly"
+                ]
+            }
+        }
+    },
+    {
+        "level_5_lootbox": {
+            "description": "Mid-level loot box.",
+            "rewards": {
+                "tokens": {
+                    "min": 200,
+                    "max": 300
+                },
+                "items": [
+                    "pants_with_quick_dry_material",
+                    "light_show_quadcopter",
+                    "surveillance_copter",
+                    "mini_racer"
+                ]
+            }
+        }
+    }
+
+
+]
